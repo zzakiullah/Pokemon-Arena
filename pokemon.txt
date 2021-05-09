@@ -1,0 +1,31 @@
+30
+Gyarados,100,water,leaf,earth,2,Dragon Rage,30,50, ,Bubblebeam,40,40,Disable
+Voltorb,40,electric, ,earth,2,Spark,10,20, ,Explode,40,40,Wild Storm
+Mankey,40,earth, ,fighting,2,Fury Swipes,20,60,Wild Card,Pranks,0,0,Recharge
+Rhyhorn,70,earth,electric,fighting,2,Leer,30,0,Stun,Horn Attack,30,40, 
+Onix,70,earth,electric,water,2,Rock Throw,10,20,Stun,Harden,20,0,Disable
+Diglett,30,earth,leaf,electric,2,Dig,10,10, ,Mud Slap,20,30, 
+Machop,50,fighting,electric, ,1,Low Kick,10,20, 
+Wooper,50,water,electric,leaf,2,Amnesia,30,0,Disable,Slam,20,30, 
+Totodile,50,water, ,leaf,2,Leer,30,0,Stun,Fury Swipes,20,40, 
+Seel,60,water, ,electric,1,Headbutt,30,30,Stun
+Staryu,40,water, ,electric,1,Slap,20,20, 
+Magikarp,30,water, ,electric,2,Tackle,20,30, ,Flail,20,15,Wild Storm
+Tangela,50,leaf, ,fire,2,Bind,25,20,Stun,Poisonpowder,30,40,Wild Card
+Pinsir,60,leaf, ,fire,2,Irongrip,20,20,Stun,Guillotine,40,50,Wild Card
+Venonat,40,leaf, ,fire,2,Stun Spore,20,20,Stun,Leech Life,0,15,Recharge
+Bulbasaur,40,leaf, ,fire,1,Leech Seed,0,0,Recharge
+Nidoran,40,leaf, ,fire,1,Horn Hazard,30,40,Wild Card
+Cyndaquil,50,fire, ,water,2,Fireworks,20,30, ,Quick Attack,20,15,Wild Storm
+Magmar,50,fire, ,water,2,Fire Punch,30,35, ,Flamethrower,30,50,Wild Card
+Growlithe,60,fire, ,water,1,Flare,20,30, 
+Vulpix,50,fire, ,water,1,Confuse Ray,20,0,Stun
+Charmander,50,fire, ,water,2,Scratch,10,15, ,Ember,30,40,Wild Card
+Mareep,40,electric, ,fire,2,Static Electricity,20,0,Stun,Thundershock,20,25,Stun
+Pikachu,50,electric, ,fire,2,Quick Attack,10,20, ,Agility,30,0,Disable
+Pidgey,40,fighting,earth,electric,1,Whirlwind,15,20,Stun
+Spearow,50,fighting,earth,electric,2,Peck,10,10, ,Mirror Move,20,30,Wild Card
+Doduo,50,fighting,earth,electric,1,Fury Attack,20,40,Wild Card
+Jigglypuff,200,fighting,fighting,fire,3,Lullaby,30,10,Stun,Pound,20,25, ,Sing,20,10,Disable
+Charizard,80,fire, ,water,3,Inferno,40,30,Wild Storm,Ember,40,40,Disable,Scary Face,20,10,Stun
+Zapdos,90,electric,fighting,water,3,Magnetic Flux,30,30,Wild Card,Thunder Shock,40,40, ,Shock Wave,20,10,Stun
